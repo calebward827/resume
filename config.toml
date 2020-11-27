@@ -65,7 +65,9 @@ googleAnalytics = ""
         [[params.skills.list]]
         title = "Communication"
         [[params.skills.list]]
-        title = "Teamwork"                
+        title = "Teamwork"
+        [[params.skills.list]]
+        title = "Work Ethic"                      
 
         # [[params.skills.list]]
         # title = "Professional"
